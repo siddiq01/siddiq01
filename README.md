@@ -21,18 +21,19 @@
 </ul>
 
   </td>
-  <!-- Right column: Animation -->
+  <!-- Right column: Animation and Pac-Man -->
   <td width="42%" align="right" valign="top">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="290"/>
-    ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+    <br/><br/>
+    <!-- Pacman contribution graph visualization -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="290">
+    </picture>
+    <div align="right">
+      <small>Auto-generated contribution graph (updates twice a day via GitHub Actions)</small>
+    </div>
   </td>
 </tr>
 </table>
@@ -77,7 +78,6 @@
 
 - 📧 Email: badlani.siddiq@email.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
-<!-- - 🌐 [Portfolio](https://your-portfolio.com) _(if any)_ -->
 
 ---
 
