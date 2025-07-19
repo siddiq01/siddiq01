@@ -1,8 +1,5 @@
-<!-- Badlani Siddiq - GitHub Profile README -->
-
 <table>
 <tr>
-  <!-- Left column: About section -->
   <td width="58%" valign="top">
 
 <h1>Hi 👋, I'm Badlani Siddiq</h1>
@@ -21,7 +18,6 @@
 </ul>
 
   </td>
-  <!-- Right column: Animation and Pac-Man -->
   <td width="42%" align="right" valign="top">
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="290"/>
     <br/><br/>
