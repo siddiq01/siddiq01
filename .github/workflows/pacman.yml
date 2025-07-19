@@ -1,7 +1,7 @@
 name: Generate Pacman Graph
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 12 hours
+    - cron: "0 */6 * * *"  # Runs every 6 hours
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -11,15 +11,17 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate SVG
+      - uses: actions/checkout@v3
+
+      - name: Generate Pacman SVG
         uses: liununu/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           output_name: "pacman"
-          output_branch: "output"
+          theme: "gradient"  # Try "default" if this doesn't work
+          show_total: "true"
 
       - name: Commit and Push
         uses: actions-js/push@master
