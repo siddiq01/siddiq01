@@ -1,5 +1,8 @@
 name: Generate pacman animation
 
+      - name: Rename to pacman.svg
+        run: mv dist/pacman-contribution-graph.svg dist/pacman.svg
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
