@@ -28,9 +28,11 @@
   <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" alt="GitHub Contribution Snake" />
 </picture>
 
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="max-width: 100%; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" alt="GitHub Contribution Snake" style="max-width: 100%; border-radius: 8px;" />
 </p>
+
 
 
   </td>
