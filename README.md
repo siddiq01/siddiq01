@@ -11,15 +11,14 @@
 - ❤️ Always open for collaborations and knowledge sharing
 
 
- ## 🎮 GitHub Activity
+## 🎮 GitHub Activity
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/siddiq01/output/pacman.svg" 
-    alt="GitHub Contribution Pacman" 
+    alt="GitHub Contribution Graph" 
     width="100%"
-    onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/siddiq01/output/pacman-dark.svg'"
+    onerror="this.style.display='none'"
   />
-</p>
 </p>
 
 ## 🛠️ Tech Stack
