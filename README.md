@@ -10,13 +10,16 @@
 - 🔍 Actively exploring new technologies and contributing to projects
 - ❤️ Always open for collaborations and knowledge sharing
 
-## 🎮 GitHub Activity
+
+ ## 🎮 GitHub Activity
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" />
-    <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/siddiq01/output/pacman.svg" 
+    alt="GitHub Contribution Pacman" 
+    width="100%"
+    onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/siddiq01/output/pacman-dark.svg'"
+  />
+</p>
 </p>
 
 ## 🛠️ Tech Stack
