@@ -1,21 +1,24 @@
-name: Generate Snake
+name: Generate Pacman Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs twice a day
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: Generate snake animation
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: siddiq01  # <-- change this to your GitHub username
+          github_user_name: siddiq01
           outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+            ./dist/pacman.svg
+            ./dist/pacman-dark.svg
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
