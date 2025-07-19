@@ -25,7 +25,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" />
-  <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" alt="GitHub Contribution Snake" />
 </picture>
 
 <p align="center">
