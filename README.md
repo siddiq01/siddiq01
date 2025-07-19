@@ -25,15 +25,13 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" />
-  <img 
-    src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" 
-    alt="GitHub Contribution Snake" 
-    style="max-width: 100%; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" alt="GitHub Contribution Snake" />
 </picture>
 
-<div align="right">
-  <small><i>🐍 Contribution graph updates via GitHub Actions</i></small>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" style="max-width: 100%; border-radius: 8px;" />
+</p>
+
 
   </td>
 </tr>
