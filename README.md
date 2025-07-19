@@ -22,16 +22,19 @@
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" width="290"/>
     <br/><br/>
     <!-- Pacman contribution graph visualization -->
-  <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" />
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" />
+  <img 
+    src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman.svg" 
+    alt="GitHub Contribution Snake" 
+    style="max-width: 100%; border-radius: 8px;" />
 </picture>
 
+<div align="right">
+  <small><i>🐍 Contribution graph updates via GitHub Actions</i></small>
+</div>
 
-    <div align="right">
-      <small>Auto-generated contribution graph (updates twice a day via GitHub Actions)</small>
-    </div>
   </td>
 </tr>
 </table>
