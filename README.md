@@ -12,14 +12,16 @@
 
 
 ## 🎮 GitHub Activity
+## 🕹️ Pac‑Man Contribution Graph
+
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/siddiq01/output/pacman.svg" 
-    alt="GitHub Contribution Graph" 
-    width="100%"
-    onerror="this.style.display='none'"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-contribution-graph.svg">
+    <img alt="Pac‑Man contribution graph" src="https://raw.githubusercontent.com/siddiq01/siddiq01/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </p>
+
 
 ## 🛠️ Tech Stack
 <div align="center">
