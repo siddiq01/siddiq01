@@ -1,3 +1,4 @@
+![logo](https://github.com/siddiq01/siddiq01/blob/main/gp-6.jpg)
 # Hi 👋, I'm Badlani Siddiq
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddiq01&label=Profile%20views&color=0e75b6&style=flat)
