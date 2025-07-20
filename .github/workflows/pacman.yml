@@ -1,7 +1,7 @@
 name: Generate Pacman Graph
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -20,7 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           output_name: "pacman"
-          theme: "gradient"  # Try "default" if this doesn't work
+          output_dir: "dist"
+          theme: "gradient"
           show_total: "true"
 
       - name: Commit and Push
