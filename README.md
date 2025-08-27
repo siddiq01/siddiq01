@@ -1,4 +1,4 @@
-![logo](https://github.com/siddiq01/siddiq01/blob/main/Futuristic.png)
+<img src="https://github.com/siddiq01/siddiq01/blob/main/github-banner.jpeg" alt="logo" height="200" width="100%"/>
 # Hi 👋, I'm Badlani Siddiq
 
 ![Profile Views](https://komarev.com/ghpvc/?username=siddiq01&label=Profile%20views&color=0e75b6&style=flat)
