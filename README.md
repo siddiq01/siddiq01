@@ -1,4 +1,4 @@
-<!--img src="https://github.com/siddiq01/siddiq01/blob/main/github-banner.jpeg" alt="logo" height="200" width="100%"/-->
+<img src="https://github.com/siddiq01/siddiq01/blob/main/GitHub-Banner.png" alt="logo"/>
 
 
 
